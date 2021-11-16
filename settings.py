@@ -3,7 +3,7 @@ TITLE = "Jumpy"
 WIDTH = 480 #가로
 HEIGHT = 600 #세로
 FPS = 60
-FONT_NAME = '' #나눔고딕
+FONT_NAME = 'nanumgothic' #나눔고딕
 HS_FILE = "highscore.txt" #점수기록 txt
 SPRITESHEET = "woowang.png" 
 

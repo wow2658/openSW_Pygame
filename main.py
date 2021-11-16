@@ -132,9 +132,9 @@ class Game:
         # game splash/start screen
         self.screen.fill(BGCOLOR)
         self.draw_text(TITLE, 48, BLACK, WIDTH/2, HEIGHT/4)
-        self.draw_text("한글 테스트",
+        self.draw_text("Arrows to move, Space to jump",
                        32, BLACK, WIDTH/2, HEIGHT/2)
-        self.draw_text("Press a key to play",
+        self.draw_text("아무키나 누르면 시작합니다",
                        32, BLACK, WIDTH/2, HEIGHT*3/4)
         self.draw_text("High Score : " + str(self.highscore), # 하이스코어 표시
                        32, BLACK, WIDTH/2, 15)                       
