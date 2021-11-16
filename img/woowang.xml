@@ -1,0 +1,12 @@
+
+<TextureAtlas imagePath="woowang.png">
+
+    <SubTexture name="woowang bk0000" x="0" y="0" width="384" height="88" frameX="0" frameY="0" frameWidth="384" frameHeight="88" />
+    <SubTexture name="woowang sk0000" x="384" y="0" width="202" height="88" frameX="0" frameY="0" frameWidth="202" frameHeight="88" />
+    <SubTexture name="woowang bb0000" x="0" y="88" width="384" height="88" frameX="0" frameY="0" frameWidth="384" frameHeight="88" />
+    <SubTexture name="woowang run0000" x="384" y="88" width="159" height="215" frameX="0" frameY="0" frameWidth="159" frameHeight="215" />
+    <SubTexture name="woowang run0001" x="0" y="303" width="159" height="212" frameX="0" frameY="0" frameWidth="159" frameHeight="212" />
+    <SubTexture name="woowang stand0000" x="159" y="303" width="161" height="196" frameX="0" frameY="0" frameWidth="161" frameHeight="196" />
+    <SubTexture name="woowang stand0001" x="0" y="515" width="144" height="186" frameX="0" frameY="0" frameWidth="144" frameHeight="186" />
+    <SubTexture name="woowang jump0000" x="144" y="515" width="138" height="196" frameX="0" frameY="0" frameWidth="138" frameHeight="196" />
+</TextureAtlas>
