@@ -1,11 +1,15 @@
-# openSWpygame
-오픈소스SW과제
-
-pygame이 설치된 환경에서 main.py를 실행하면 구동합니다.
-
+### 실행방법
+vscode,python,pygame 설치된 환경에서 main.py를 실행하면 구동합니다.
 아무키나 누르면 시작합니다.
-A,D,SpaceBar로 진행하며
+
+### 조작키
+이동: 좌,우 화살표 <br>
+점프: Spacebar<br>
 창을 닫으면 종료합니다.
+
+<img src="https://github.com/MTVSquad/IROAS-Client/assets/34699039/8aa3fe9b-fe88-414b-8bd2-f8c0ab5cbf46" width="400" height="450" />
+
+***
 
 ![슬라이드1](https://github.com/wow2658/openSWpygame/assets/34699039/ff1a39e9-5e4f-441e-8e9a-f3ccb450eb28)
 ![슬라이드2](https://github.com/wow2658/openSWpygame/assets/34699039/b61b4b04-db6a-41a3-805a-5876267669e5)
